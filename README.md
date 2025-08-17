@@ -14,11 +14,11 @@ Proyek ini merupakan implementasi **Machine Learning** untuk memprediksi harga r
 - Mengevaluasi hasil prediksi menggunakan metrik regresi.  
 
 ## 📂 Struktur Proyek
-├── data/
-│ ├── housing_train.csv # Dataset utama
-│ └── housing_test.csv # Dataset uji
-├── HousePricing.ipynb # Notebook utama
-└── README.md # Dokumentasi proyek
+- ├── data/
+- │ ├── housing_train.csv # Dataset utama
+- │ └── housing_test.csv # Dataset uji
+- ├── HousePricing.ipynb # Notebook utama
+- └── README.md # Dokumentasi proyek
 
 
 ## 🔧 Tools & Library
